@@ -1,5 +1,4 @@
 // criador: Pedro Levi
-// idade: 14
 // nível em C: iniciante avançado
 // data: 07/07/2026
 
